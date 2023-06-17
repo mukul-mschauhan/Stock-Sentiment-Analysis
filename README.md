@@ -29,7 +29,7 @@ We welcome contributions from the community to enhance the Stock Sentiment Analy
 Before submitting a pull request, please ensure that your code adheres to the project's coding conventions and passes all tests.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the OPEN License. See the LICENSE file for more information.
 
 Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out to us. You can contact us at mukul.mschauhan@gmail.com.
