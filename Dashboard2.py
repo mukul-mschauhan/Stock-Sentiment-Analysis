@@ -18,7 +18,7 @@ st.title(pageTitle + " " + pageIcon)
 tata = yfin.Ticker("TATAMOTORS.NS").history("max")
 tata["Date"] = tata.index
 
-final = pd.read_csv("~/Downloads/FinalDataset.csv")
+final = pd.read_csv("~/data/FinalDataset.csv") # "data/car_data.csv"
 #------------------------------------------------------------------------
 
 # ----- DROP DOWN VALUES FOR COMPANY TO SELECT FOR ANALYSIS ------
@@ -134,9 +134,9 @@ with st.form("entry_form"):
               font-weight: bold;
             }
             """
-            headlines = pd.read_csv("~/Documents/Github_Projects/data/FinalHeadlines.csv", encoding='latin1')
-            labels = pd.read_csv("~/Documents/Github_Projects/data/labels.csv", encoding='latin1')
-            ytest = pd.read_csv("~/Documents/Github_Projects/data/ytest.csv", encoding='latin1')
+            headlines = pd.read_csv("~/data/FinalHeadlines.csv", encoding='latin1')
+            labels = pd.read_csv("~/data/labels.csv", encoding='latin1')
+            ytest = pd.read_csv("~/data/ytest.csv", encoding='latin1')
             accuracy = accuracy_score(ytest, labels)
             report = classification_report(ytest, labels) 
             st.subheader("Top Headlines")
