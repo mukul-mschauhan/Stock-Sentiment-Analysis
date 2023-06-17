@@ -16,10 +16,8 @@ To get started with the Stock Sentiment Analysis project, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/stock-sentiment-analysis.git
-Install the required dependencies:
+git clone [https://github.com/your-username/stock-sentiment-analysis.git](https://mukul-mschauhan-stock-sentiment-analysis-dashboard2-f8z9tr.streamlit.app/)
+
 
 bash
 Copy code
