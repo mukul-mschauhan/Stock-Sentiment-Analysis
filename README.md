@@ -12,10 +12,11 @@ Features
 * Interactive Dashboard: Visualize sentiment analysis results and stock market predictions through an intuitive and user-friendly dashboard.
 * Historical Analysis: Explore historical sentiment trends and stock performance to identify patterns and correlations.
 
-Installation
+### Installation
+
 To get started with the Stock Sentiment Analysis project, follow these steps:
 
-Clone the repository:
+### Clone the repository:
 
 git clone [https://github.com/your-username/stock-sentiment-analysis.git](https://mukul-mschauhan-stock-sentiment-analysis-dashboard2-f8z9tr.streamlit.app/)
 
@@ -24,15 +25,15 @@ Explore the sentiment analysis results and stock market predictions in real-time
 
 Analyze historical sentiment trends and stock performance to gain valuable insights.
 
-Contributing
+### Contributing
 We welcome contributions from the community to enhance the Stock Sentiment Analysis project. If you have any ideas, bug fixes, or improvements, please feel free to submit a pull request. Together, we can make this project even better!
 
 Before submitting a pull request, please ensure that your code adheres to the project's coding conventions and passes all tests.
 
-License
+### License
 This project is licensed under the OPEN License. See the LICENSE file for more information.
 
-Contact
+### Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out to us. You can contact us at mukul.mschauhan@gmail.com.
 
 Happy analyzing and investing!
