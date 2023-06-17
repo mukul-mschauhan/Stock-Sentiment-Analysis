@@ -6,7 +6,7 @@ Welcome to the Stock Sentiment Analysis project! This project aims to analyze th
 
 Features
 
-Sentiment Analysis: Utilize advanced natural language processing techniques to analyze the sentiment of news headlines.
+* Sentiment Analysis: Utilize advanced natural language processing techniques to analyze the sentiment of news headlines.
 * Stock Price Prediction: Develop powerful machine learning models to predict stock market trends based on sentiment analysis.
 * Real-time Data: Continuously fetch and analyze the latest news headlines to provide up-to-date sentiment analysis.
 * Interactive Dashboard: Visualize sentiment analysis results and stock market predictions through an intuitive and user-friendly dashboard.
