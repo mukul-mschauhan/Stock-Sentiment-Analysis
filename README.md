@@ -19,24 +19,7 @@ Clone the repository:
 git clone [https://github.com/your-username/stock-sentiment-analysis.git](https://mukul-mschauhan-stock-sentiment-analysis-dashboard2-f8z9tr.streamlit.app/)
 
 
-bash
-Copy code
-pip install -r requirements.txt
-Obtain the necessary API keys and configurations for fetching news headlines and stock data.
-
-Update the configuration file with the required credentials.
-
-Run the application:
-
-bash
-Copy code
-python app.py
-Usage
-Access the Stock Sentiment Analysis dashboard through your web browser at http://localhost:5000 (or the specified port).
-
 Explore the sentiment analysis results and stock market predictions in real-time.
-
-Customize the date range, stock symbols, and sentiment analysis parameters to suit your needs.
 
 Analyze historical sentiment trends and stock performance to gain valuable insights.
 
@@ -49,6 +32,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Contact
-If you have any questions, suggestions, or feedback, please feel free to reach out to us. You can contact us at example@example.com.
+If you have any questions, suggestions, or feedback, please feel free to reach out to us. You can contact us at mukul.mschauhan@gmail.com.
 
 Happy analyzing and investing!
