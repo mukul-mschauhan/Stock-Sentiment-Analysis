@@ -177,12 +177,11 @@ with st.form("entry_form"):
             with col2:
                 st.subheader("Prescriptive Advice")
                 results = f''' 
-                * Basis the Intelligence Drawn from the ML Model and the Sentiment Analysis, We find that the Probable Range for the Market tomorrow is between 590 – 600.
-                * The Price Range for the TAMO for **1 Day** is **554 – 587**.
+                * Basis the Intelligence Drawn from the ML Model and the Sentiment Analysis, We find that the Probable Range for the Market for **1 Day** is **554 – 587**.
                 * At the same time, the Price Range for the TAMO for **1 Week** is **535 – 609**.
                 * And the Price Range for the TAMO for **1 Month** is **491 – 673**.
                 
-                Note: The Above the ranges are calculated at 95% Confidence Level'''
+                Note: The Above ranges are calculated at 95% Confidence Level'''
                 st.markdown(results)
             
             with col1:
